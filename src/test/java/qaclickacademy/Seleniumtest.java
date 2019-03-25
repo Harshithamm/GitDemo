@@ -9,6 +9,8 @@ public class Seleniumtest
 	public void seleni1()
 	{
 		System.out.println("Selenium1");
+		System.out.println("hello");
+		System.out.println("bye");
 	}
 	
 	@Test
