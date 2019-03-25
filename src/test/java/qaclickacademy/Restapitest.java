@@ -8,6 +8,7 @@ public class Restapitest
    public void rest1()
    {
 	   System.out.println("restapi1");
+	   System.out.println("restapi45");
    }
    
    @Test
